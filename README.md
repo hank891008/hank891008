@@ -1,5 +1,5 @@
 ### Hi there , I am Hank Hsu👋
-- 🏫 I major in Computer Science and Information Engineer at Fu Jen Catholic University
+- 🏫 I major in Computer Science and Information Engineering at Fu Jen Catholic University
 - 🌱 I’m currently learning deep learning, especially in the field of image manipulation 🖼
 - 📫 How to reach me: hank891008@gmail.com
 - 📝 My Blog: hank891008.github.io
