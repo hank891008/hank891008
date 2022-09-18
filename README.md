@@ -1,6 +1,8 @@
 ### Hi there , I am Hank Hsu👋
+- 🏫 I major in Computer Science and Information Engineer at Fu Jen Catholic University
 - 🌱 I’m currently learning deep learning, especially in the field of image manipulation 🖼
 - 📫 How to reach me: hank891008@gmail.com
+- 📝 My Blog: hank891008.github.io
 <!--
 **hank891008/hank891008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
