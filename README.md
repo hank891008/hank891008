@@ -1,5 +1,5 @@
-### Hi there , I am Hank Hsu👋
-- 🏫 I major in Computer Science at National Yang Ming Chiao Tung University
+### Hi there, I am Hank Hsu👋
+- 🏫 A student at National Yang Ming Chiao Tung University
 - 📫 How to reach me: hank891008@gmail.com
 - 📝 My Blog: https://hank891008.github.io
 <!--
